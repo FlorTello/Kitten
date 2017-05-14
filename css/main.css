@@ -29,7 +29,7 @@ picture{
   }
 }
 /*fondo por cuando la ventana tiene un ancho mayor a 1100px*/
-@media (min-width:1100px) {
+@media (min-width:1200px) {
   .fondo{
     background-image: url('../assets/images/landscape.jpg');
   }
